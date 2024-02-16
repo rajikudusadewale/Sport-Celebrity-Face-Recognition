@@ -31,3 +31,4 @@ The automates the process of searching for, fetching, and downloading images fro
 3. Once a sufficient number of unique image URLs are collected (or the script has scrolled through all available results), it proceeds to download each image.
 4. Each image is saved to the specified target directory, with care taken to handle errors in downloading or saving.
 
+Code credit to Codebasics
