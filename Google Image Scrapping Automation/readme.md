@@ -1,5 +1,7 @@
-The automates the process of searching for, fetching, and downloading images from Google Images based on a given search term.
+I used Fatkun Batch Download Image chrome extension to scrap the images. I also decided to try out the automation code with selenium provided by Codebasics to achieve the same result, but the chrome extension is easy and faster.
 
+
+The code automates the process of searching for, fetching, and downloading images from Google Images based on a given search term.
 
 ### Initial Setup
 - The code starts by defining a list of search terms, in this case, a single term: "Serena Williams".
