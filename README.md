@@ -1,2 +1,2 @@
 # Sport-Celebrity-Face-Recognition
-Image Classification, Machine Learning, SVM, Deep Learning.
+Image Classification, Machine Learning, SVM, OpenCV.
